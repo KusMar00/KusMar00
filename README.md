@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+**I'm Markus** - I'm a Computer Science Master's Student at the IT-University of Copenhagen.
+
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,bash,py,django,c,cs,docker,dotnet,git,github,go,java,latex,linux,md,materialui,mongodb,nextjs,notion,postgres,redis,tailwind,threejs,ubuntu,vscode,)](https://skillicons.dev)
+
 <!--
 **KusMar00/KusMar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
